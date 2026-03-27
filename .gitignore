@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+Thumbs.db
+
+# AI tool artifacts
+.agent/
+.agent-mem/
+.agents/
+.brainsync/
+.cursor/
+.windsurfrules
